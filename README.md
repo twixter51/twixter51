@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Nice to meet you, I am Harman. Thats my government name, I prefer twix.
+Nice to meet you
 
 
 <!--
