@@ -4,6 +4,14 @@ Nice to meet you
 
 ## Releasing Ecommerce Website Project Soon!
 
+# Coming Along Nicely!
+
+![forgithub](https://github.com/user-attachments/assets/1465a66c-ea33-45c5-baaf-26f442188396)
+
+A little Sneak PEAK 
+
+
+
 
 <!--
 **twixter51/twixter51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
