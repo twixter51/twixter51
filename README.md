@@ -4,7 +4,7 @@ Nice to meet you
 
 ## Releasing my first full stack application MyBoard Soon!
 
-# Current Version : Pre-Release V0.1
+# Current Version of my most recent project: Pre-Release V0.1  (Myboard)
 
 
 
