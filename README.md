@@ -2,13 +2,11 @@
 
 Nice to meet you
 
-## Releasing Ecommerce Website Project Soon!
+## Releasing my first full stack application MyBoard Soon!
 
-# Coming Along Nicely!
+# Current Version : Pre-Release V0.1
 
-![forgithub](https://github.com/user-attachments/assets/1465a66c-ea33-45c5-baaf-26f442188396)
 
-A little Sneak PEAK 
 
 
 
