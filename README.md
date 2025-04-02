@@ -4,10 +4,11 @@ Nice to meet you
 
 ## Releasing my first full stack application MyBoard Soon!
 
-# Current version of my most recent project: Pre-Release V0.25 (Myboard)
+# Current version of my most recent project: Pre-Release V0.35 (Myboard):
 
 
 
+![yeahhh](https://github.com/user-attachments/assets/11a16858-71dc-4ef8-a802-7c43810cb813)
 
 
 
