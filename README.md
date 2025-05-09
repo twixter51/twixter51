@@ -1,28 +1,11 @@
-## Hi there 👋
+# Personal README – KillMeInc
 
-Nice to meet you
+## 💼 Experience
 
-## Releasing my first full stack application MyBoard Soon!
+Chief Solutions Orchestrator for vertically integrated web-based startup synthesis via artisanal Django middleware architecture. Spearheaded high-concept execution of scalable temporal endpoints in a post-relational database environment (read: PostgreSQL). Proud inventor of recursive URL naming and recursive self-doubt.
 
-# Current version of my most recent project: Pre-Release V0.35 (Myboard):
+Former Full-Stack Sommelier at `/dev/null`, where I curated pipelines nobody asked for and containerized existential dread. Served as lone maintainer of a codebase that actively resists understanding.
 
+## 🚧 Currently Building
 
-
-![yeahhh](https://github.com/user-attachments/assets/11a16858-71dc-4ef8-a802-7c43810cb813)
-
-
-
-<!--
-**twixter51/twixter51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Django-powered startup that I genuinely need, even if nobody ever cares
