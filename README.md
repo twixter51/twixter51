@@ -4,4 +4,6 @@
 - 🔓 The project is now open source, as I am revamping it for future deployment.
   👉 [MyBoard on GitHub](https://github.com/twixter51/MyBoard)
 
+  - An API that includes all the needs to facilitate self empowerment.
+
 
